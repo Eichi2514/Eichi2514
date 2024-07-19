@@ -13,12 +13,13 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          USERNAME: ${{ github.repository_Eichi2514 }}
       - name: Commit & Push
         run: |
           git config user.name github-Eichi2514
-          git config user.email github-Eichi2514@github.com
+          git config user.email github-picon1317@gmail.com
           git add -A .
           git commit -m "generated"
           git push
+![](./profile-3d-contrib/profile-green-animate.svg)
