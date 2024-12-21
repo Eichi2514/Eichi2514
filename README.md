@@ -1,6 +1,6 @@
 <div style="text-align: center; margin-top: 50px;">
-  <h1 style="font-family: 'Arial', sans-serif; color: #333;">Hello, I'm <span style="color: #007396;">Eichi</span> 👋</h1>
-  <p style="font-size: 18px; color: #555; line-height: 1.6;">Welcome to my GitHub profile! I'm deeply passionate about software development and always looking for opportunities to learn and grow. I'm constantly honing my skills and expanding my knowledge in the field. Let's connect and collaborate on exciting projects!</p>  
+  <img style="width: 100vw" src="https://github.com/user-attachments/assets/98333576-182e-450d-bbc0-4558540c2891" />
+  <p style="font-size: 18px; color: #555; line-height: 1.6;">I'm deeply passionate about software development and always looking for opportunities to learn and grow. I'm constantly honing my skills and expanding my knowledge in the field. Let's connect and collaborate on exciting projects!</p>  
 </div>
 
 <div style="text-align: center; margin-top: 40px;">
