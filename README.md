@@ -1,5 +1,5 @@
-<div style="text-align: center; margin-top: 50px;">
-  <img style="width: 100vw" src="https://github.com/user-attachments/assets/98333576-182e-450d-bbc0-4558540c2891" />
+<div style="text-align: center; margin-top: 50px;">  
+  <img style="width: 100vw" src="https://github.com/user-attachments/assets/063582f7-556c-4536-b56c-0d48cee98aa9" />
   <p style="font-size: 18px; color: #555; line-height: 1.6;">I'm deeply passionate about software development and always looking for opportunities to learn and grow. I'm constantly honing my skills and expanding my knowledge in the field. Let's connect and collaborate on exciting projects!</p>  
 </div>
 
