@@ -23,13 +23,28 @@
 
 <div style="text-align: center; margin-top: 50px;">
   <a href="https://www.gitanimals.org/en_US" target="_blank">
-    <img src="https://render.gitanimals.org/farms/Eichi2514" width="1000" style="border-radius: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);" />
+    <img 
+  src="https://render.gitanimals.org/farms/Eichi2514" 
+  style="width: 100%; height: auto; border-radius: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);" 
+    />
   </a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eichi2514&show_icons=true&title_color=000000&icon_color=AA0A16&text_color=000000&bg_color=FFFFFF00)
+<div style="text-align: center; margin-top: 40px;">
+  <h2 style="font-size: 24px; color: #007396; font-weight: bold;">GitStats</h2>
+</div>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Eichi2514&show_icons=true&title_color=000000&icon_color=AA0A16&text_color=000000&bg_color=FFFFFF00" 
+  style="width: 100%; height: auto;" 
+  alt="Anurag's GitHub stats"
+/>
+
 
 <div style="text-align: center; margin-top: 40px;">  
+  <a href="https://eichi2514.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-282828?style=flat-square&logo=google-chrome&logoColor=FFFFFF&color=282828&labelColor=282828" />
+  </a>  
   <a href="https://hits.seeyoufarm.com" target="_blank">    
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEichi2514%2Fhit-counter&count_bg=%23282828&title_bg=%23282828&icon=hexo.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false&count_fg=%23FFFFFF" />
   </a>
