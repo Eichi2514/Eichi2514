@@ -27,7 +27,7 @@
   </a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eichi2514&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eichi2514&show_icons=true&title_color=000000&icon_color=AA0A16&text_color=000000&bg_color=FFFFFF00)
 
 <div style="text-align: center; margin-top: 40px;">  
   <a href="https://hits.seeyoufarm.com" target="_blank">    
