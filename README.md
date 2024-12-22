@@ -18,26 +18,27 @@
 </div>
 
 <div style="text-align: center; margin-top: 40px;">
-  <h2 style="font-size: 24px; color: #007396; font-weight: bold;">Gitanimals</h2>
+  <h2 style="font-size: 24px; color: #007396; font-weight: bold;">GitAnimals</h2>
 </div>
 
 <div style="text-align: center; margin-top: 50px;">
   <a href="https://www.gitanimals.org/en_US" target="_blank">
-    <img src="https://render.gitanimals.org/farms/Eichi2514" width="1000" height="500" style="border-radius: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);" />
+    <img src="https://render.gitanimals.org/farms/Eichi2514" width="1000" style="border-radius: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);" />
   </a>
 </div>
 
-<div style="text-align: center; margin-top: 40px;">
-  <p style="font-size: 20px; font-weight: bold; color: #333;">Check out some of my most popular repositories:</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eichi2514&show_icons=true&theme=transparent)
+
+<div style="text-align: center; margin-top: 40px;">  
+  <a href="https://hits.seeyoufarm.com" target="_blank">    
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEichi2514%2Fhit-counter&count_bg=%23282828&title_bg=%23282828&icon=hexo.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false&count_fg=%23FFFFFF" />
+  </a>
   <a href="https://github.com/Eichi2514" target="_blank">
-    <img src="https://img.shields.io/github/followers/Eichi2514?style=social&label=Follow" />
+    <img src="https://img.shields.io/github/followers/Eichi2514?style=flat-square&color=282828&labelColor=282828&logo=github&logoColor=FFFFFF&label=Followers&logoWidth=20" />
   </a>
   <a href="https://github.com/Eichi2514?tab=repositories" target="_blank" style="margin-left: 20px;">
-    <img src="https://img.shields.io/github/stars/Eichi2514?style=social&label=Stars" />
-  </a>
+    <img src="https://img.shields.io/github/stars/Eichi2514?style=flat-square&color=282828&labelColor=282828&logo=github&logoColor=FFFFFF&label=Stars&logoWidth=20" />
+  </a>  
 </div>
 
-<div style="text-align: center; margin-top: 40px;">
-  <p style="font-size: 18px; color: #555;">Feel free to explore my repositories, follow me on GitHub, and let's collaborate!</p>
-  <a href="https://github.com/Eichi2514" target="_blank" style="padding: 10px 20px; background-color: #007396; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Visit My GitHub</a>
-</div>
+<p style="font-size: 20px; font-weight: bold; color: #333;">Check out some of my most popular repositories:</p>
