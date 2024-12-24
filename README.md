@@ -4,7 +4,7 @@
 
 <p>I'm deeply passionate about software development and always looking for opportunities to learn and grow. I'm constantly honing my skills and expanding my knowledge in the field. Let's connect and collaborate on exciting projects!</p>  
 
-<h2>Technology Stack</h2>
+<h2>⚙Technology Stack</h2>
 
 <div>
   <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-<h2>Activity</h2>
+<h2>📈Activity</h2>
 
 <div>
   <a href="https://www.gitanimals.org/en_US" target="_blank">
@@ -50,4 +50,4 @@
   </a>  
 </div>
 <br>
-<h2>Check out my featured repositories</h2>
+<h2>📃Check out my featured repositories</h2>
