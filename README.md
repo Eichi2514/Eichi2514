@@ -32,6 +32,20 @@
   />  
 </div>
 <br>
+
+<div>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eichi2514&layout=compact&show_icons=true&title_color=000000"
+    style="width: 41%;"
+  />
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=eichi2514&hide_border=false&border_radius=5&fire=FF0000&ring=AA0A16&currStreakLabel=000000" alt="GitHub Streak"
+      style="width: 57%;" />
+  </a>
+</div>
+<br>
+
 <div>  
   <a href="https://eichi2514.github.io/">
     <img src="https://img.shields.io/badge/Visit%20My%20Website-282828?style=flat-square&logo=google-chrome&logoColor=FFFFFF&color=282828&labelColor=282828" />
