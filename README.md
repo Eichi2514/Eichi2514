@@ -8,6 +8,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -21,14 +22,15 @@
 <div>
   <a href="https://www.gitanimals.org/en_US" target="_blank">
     <img 
-    src="https://render.gitanimals.org/farms/Eichi2514"
-    style="width: 45%;"
+      src="https://render.gitanimals.org/farms/Eichi2514"
+      style="width: 45%;"
+      alt="GitHub Animals"
     />
   </a>
   <img 
-  src="https://github-readme-stats.vercel.app/api?username=Eichi2514&show_icons=true&title_color=AA0A16&icon_color=FF0000&text_color=000000&bg_color=FFFFFF&custom_title=GitHub%20Stats" 
-  style="width: 54%;"
-  alt="Anurag's GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=Eichi2514&show_icons=true&title_color=AA0A16&text_color=000000&bg_color=FFFFFF&custom_title=GitHub%20Stats&icon_color=FF1200"
+    style="width: 54%;"
+    alt="GitHub Stats"
   />  
 </div>
 <br>
@@ -37,11 +39,14 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=eichi2514&layout=compact&show_icons=true&title_color=AA0A16"
     style="width: 41%;"
+    alt="Most Used Languages"
   />
 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=eichi2514&hide_border=false&border_radius=5&fire=FF0000&ring=AA0A16&currStreakLabel=000000" alt="GitHub Streak"
-      style="width: 57%;" />
+    <img src="https://streak-stats.demolab.com?user=eichi2514&hide_border=false&border_radius=5&ring=AA0A16&currStreakLabel=000000&fire=FF1200"
+      style="width: 57%;"
+      alt="GitHub Streak"
+    />
   </a>
 </div>
 <br>
