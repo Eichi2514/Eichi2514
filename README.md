@@ -21,12 +21,12 @@
 <div>
   <a href="https://www.gitanimals.org/en_US" target="_blank">
     <img 
-    src="https://render.gitanimals.org/farms/Eichi2514" 
+    src="https://render.gitanimals.org/farms/Eichi2514"
     style="width: 45%;"
     />
   </a>
   <img 
-  src="https://github-readme-stats.vercel.app/api?username=Eichi2514&show_icons=true&title_color=000000&icon_color=AA0A16&text_color=000000&bg_color=FFFFFF" 
+  src="https://github-readme-stats.vercel.app/api?username=Eichi2514&show_icons=true&title_color=AA0A16&icon_color=FF0000&text_color=000000&bg_color=FFFFFF&custom_title=GitHub%20Stats" 
   style="width: 54%;"
   alt="Anurag's GitHub stats"
   />  
@@ -35,7 +35,7 @@
 
 <div>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eichi2514&layout=compact&show_icons=true&title_color=000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eichi2514&layout=compact&show_icons=true&title_color=AA0A16"
     style="width: 41%;"
   />
 
