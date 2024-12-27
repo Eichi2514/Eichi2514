@@ -23,13 +23,13 @@
   <a href="https://www.gitanimals.org/en_US" target="_blank">
     <img 
       src="https://render.gitanimals.org/farms/Eichi2514"
-      style="width: 45%;"
+      style="width: 44%;"
       alt="GitHub Animals"
     />
   </a>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Eichi2514&show_icons=true&title_color=AA0A16&text_color=000000&bg_color=FFFFFF&custom_title=GitHub%20Stats&icon_color=FF1200"
-    style="width: 54%;"
+    style="width: 53%;"
     alt="GitHub Stats"
   />  
 </div>
