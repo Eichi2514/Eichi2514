@@ -55,12 +55,6 @@
   <a href="https://eichi2514.github.io/">
     <img src="https://img.shields.io/badge/Visit%20My%20Website-282828?style=flat-square&logo=google-chrome&logoColor=FFFFFF&color=282828&labelColor=282828" />
   </a>
-  <a href="https://velog.io/@ichi2514/posts">
-    <img src="https://img.shields.io/badge/Visit%20My%20Velog-282828?style=flat-square&logo=velog&logoColor=FFFFFF&color=282828&labelColor=282828" />
-  </a>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEichi2514%2Fhit-counter&count_bg=%23282828&title_bg=%23282828&icon=hexo.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false&count_fg=%23FFFFFF" />
-  </a>
   <a href="https://github.com/Eichi2514">
     <img src="https://img.shields.io/github/followers/Eichi2514?style=flat-square&color=282828&labelColor=282828&logo=github&logoColor=FFFFFF&label=Followers&logoWidth=20" />
   </a>
