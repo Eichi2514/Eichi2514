@@ -52,7 +52,7 @@
 <br>
 
 <div>  
-  <a href="https://eichi2514.github.io/">
+  <a href="https://eichi2514.github.io/ko">
     <img src="https://img.shields.io/badge/Visit%20My%20Website-282828?style=flat-square&logo=google-chrome&logoColor=FFFFFF&color=282828&labelColor=282828" />
   </a>
   <a href="https://github.com/Eichi2514">
